@@ -1,0 +1,14 @@
+{
+  "applets": [{
+    "lastAccessTime": "2026-11-19T14:30:01.176755Z",
+    "firstAccessTime": "2026-11-19T00:03:51.462724Z",
+    "source": {
+      "sourceType": "SPANNER",
+      "spanner": {
+        "id": "e659fa44-4358-481f-8c47-a0020eb64743"
+      }
+    },
+    "name": "VYMO AI",
+    "description": "Ton imagination devient vidéo. Prototype interactif de studio créatif mobile pour transformer texte, images et scènes 3D en séquences animées."
+  }]
+}
